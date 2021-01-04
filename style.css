@@ -47,6 +47,7 @@ section{
     background-repeat: no-repeat;
     background-image: url("images/dream-bg.png");
     background-position: right;
+    margin-bottom: 150px
 }
 
 .orange-highlight{

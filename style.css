@@ -53,3 +53,27 @@ section{
 .orange-highlight{
     color: orange;
 }
+
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 45%;
+}
+
+.experience-area{
+    background-repeat: no-repeat;
+    background-image: url("images/exp-bg.png");
+    background-position: left;
+}
+
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient( rgb(15, 158, 163), tomato);
+    border-image-slice: 1;
+}
+
+#full-stack-2nd{
+    border-left: 7px solid;
+    border-image: linear-gradient( rgb(97, 161, 36), rgb(60, 114, 58));
+    border-image-slice: 1;
+}

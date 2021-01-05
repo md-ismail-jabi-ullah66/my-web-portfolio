@@ -57,7 +57,7 @@ section{
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 45%;
+    height: 70%;
 }
 
 .experience-area{
@@ -68,12 +68,18 @@ section{
 
 #full-stack{
     border-left: 7px solid;
-    border-image: linear-gradient( rgb(15, 158, 163), tomato);
+    border-image: linear-gradient( rgb(13, 76, 117), rgb(145, 236, 229));
     border-image-slice: 1;
+    background-color: white;
 }
 
 #full-stack-2nd{
     border-left: 7px solid;
-    border-image: linear-gradient( rgb(97, 161, 36), rgb(60, 114, 58));
+    border-image: linear-gradient(180deg, rgb(97, 161, 36), rgb(107, 58, 114));
     border-image-slice: 1;
+}
+footer{
+    font-family: 'Merienda', cursive;
+    font-size: 15px;
+    text-align: center;
 }

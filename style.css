@@ -75,9 +75,11 @@ section{
 
 #full-stack-2nd{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, rgb(165, 96, 87), rgb(107, 58, 114));
+    border-image: linear-gradient(180deg, rgb(146, 178, 219), rgb(107, 58, 114));
     border-image-slice: 1;
+
 }
+
 footer{
     font-family: 'Merienda', cursive;
     font-size: 15px;

@@ -68,14 +68,14 @@ section{
 
 #full-stack{
     border-left: 7px solid;
-    border-image: linear-gradient( rgb(13, 76, 117), rgb(145, 236, 229));
+    border-image: linear-gradient( rgb(11, 50, 77), rgb(145, 236, 229));
     border-image-slice: 1;
     background-color: white;
 }
 
 #full-stack-2nd{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, rgb(97, 161, 36), rgb(107, 58, 114));
+    border-image: linear-gradient(180deg, rgb(165, 96, 87), rgb(107, 58, 114));
     border-image-slice: 1;
 }
 footer{
